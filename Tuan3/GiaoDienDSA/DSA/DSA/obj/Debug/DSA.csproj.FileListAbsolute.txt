@@ -1,0 +1,61 @@
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\bin\Debug\DSA.exe.config
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\bin\Debug\DSA.exe
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\bin\Debug\DSA.pdb
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\DSA.csproj.AssemblyReference.cache
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\MainWindow.g.cs
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\App.g.cs
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\DSA_MarkupCompile.cache
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\DSA_MarkupCompile.lref
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\MainWindow.baml
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\DSA.g.resources
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\DSA.Properties.Resources.resources
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\DSA.csproj.GenerateResource.cache
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\DSA.csproj.CoreCompileInputs.cache
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\DSA.exe
+C:\Users\Truct\OneDrive\Máy tính\DSA\DSA\obj\Debug\DSA.pdb
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\bin\Debug\DSA.exe.config
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\bin\Debug\DSA.exe
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\bin\Debug\DSA.pdb
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.csproj.AssemblyReference.cache
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.csproj.SuggestedBindingRedirects.cache
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\MainWindow.g.cs
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\App.g.cs
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\DSA_MarkupCompile.cache
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\DSA_MarkupCompile.lref
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\MainWindow.baml
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.g.resources
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.Properties.Resources.resources
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.csproj.GenerateResource.cache
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.csproj.CoreCompileInputs.cache
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.exe
+C:\Users\minh4\OneDrive\Desktop\ATBM\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.pdb
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\bin\Debug\DSA.exe.config
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\bin\Debug\DSA.exe
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\bin\Debug\DSA.pdb
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.csproj.AssemblyReference.cache
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\MainWindow.g.cs
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\App.g.cs
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\DSA_MarkupCompile.cache
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\DSA_MarkupCompile.lref
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\MainWindow.baml
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.g.resources
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.Properties.Resources.resources
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.csproj.GenerateResource.cache
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.csproj.CoreCompileInputs.cache
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.exe
+C:\Users\bachb\OneDrive\Desktop\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.pdb
+D:\GiaoDienDSA\DSA\DSA\bin\Debug\DSA.exe.config
+D:\GiaoDienDSA\DSA\DSA\bin\Debug\DSA.exe
+D:\GiaoDienDSA\DSA\DSA\bin\Debug\DSA.pdb
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.csproj.AssemblyReference.cache
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\MainWindow.g.cs
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\App.g.cs
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\DSA_MarkupCompile.cache
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\DSA_MarkupCompile.lref
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\MainWindow.baml
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.g.resources
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.Properties.Resources.resources
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.csproj.GenerateResource.cache
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.csproj.CoreCompileInputs.cache
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.exe
+D:\GiaoDienDSA\DSA\DSA\obj\Debug\DSA.pdb
